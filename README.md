@@ -115,5 +115,5 @@ requests
 
 ## 🔗 Author
 
-**YourWasik** – [GitHub](https://github.com/Suprov007)
+**Wasik** – [GitHub](https://github.com/Suprov007)
 
