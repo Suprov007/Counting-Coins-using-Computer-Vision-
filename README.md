@@ -85,20 +85,6 @@ python coin_detector.py
 
 ---
 
-## 📦 requirements.txt
-
-```
-flask
-flask-socketio
-flask-sock
-opencv-python
-cvzone
-numpy
-requests
-```
-(Optional for debugging or plotting: `matplotlib`, `jupyter`)
-
----
 
 ## 🖼️ Screenshots
 
