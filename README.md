@@ -4,6 +4,10 @@ A Python project that uses **OpenCV** and **cvzone** to detect coins from a webc
 
 ---
 
+## Practical use case
+
+This project can be used in places like **ATM Booths** in banks or supermarket **Cashier** counters to automatically detect and count coins placed in front of a camera.
+
 ## 🔹 Features
 
 - Detect coins using a webcam.
