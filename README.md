@@ -91,7 +91,7 @@ python coin_detector.py
 ![Demo Image](images/demo.png)
 
 ---
-#### [Demo Video](https://youtu.be/ds5_BQeA1nk)
+#### For a detailed walkthrough, please watch the [Demo Video](https://youtu.be/ds5_BQeA1nk).
 
 
 ---
