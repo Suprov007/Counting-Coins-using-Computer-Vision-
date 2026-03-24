@@ -88,14 +88,11 @@ python coin_detector.py
 
 ## 🖼️ Screenshots
 
-*(You can add images of the webcam detection and web interface here.)*
+![Demo Image](images/demo.png)
 
 ---
+#### [Demo Video](https://youtu.be/ds5_BQeA1nk)
 
-## ⚡ Notes
-
-- The coin count updates in the session; you need to refresh `/coinCount` to see the latest value.  
-- You can extend this project to support **live updates** using Socket.IO for real-time display.
 
 ---
 
